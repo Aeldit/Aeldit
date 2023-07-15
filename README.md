@@ -14,12 +14,12 @@ Languages I learned by myself :
 
 On the applications side, I often use :
 
-![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![intelijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![pycharm](https://img.shields.io/badge/-PyCharm-95ff00?&style=for-the-badge&logo=PyCharm&logoColor=black) ![intelijidea](https://img.shields.io/badge/-IntelliJ_IDEA-4366ff?style=for-the-badge&logo=intellij-idea) ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 Environnments I develop on :
 
-![raspberrypipico](https://img.shields.io/badge/-Raspberry%20Pi%20PICO-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![raspberrypipico](https://img.shields.io/badge/-Raspberry_Pi_PICO-A22846?style=for-the-badge&logo=Raspberry_Pi&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeldit&theme=blue-green)
