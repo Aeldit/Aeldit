@@ -14,3 +14,8 @@ Languages I learned by myself :
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeldit&theme=blue-green)
 ![stats](https://github-readme-stats.vercel.app/api?username=Aeldit&theme=blue-green)
+
+
+On the applications side, I often use :
+
+![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![intelijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
