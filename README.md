@@ -19,7 +19,7 @@ On the applications side, I often use :
 
 Environnments I develop on :
 
-![raspberrypipico](https://img.shields.io/badge/-Raspberry_Pi_PICO-A22846?style=for-the-badge&logo=Raspberry_Pi&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![raspberrypipico](https://img.shields.io/badge/-Raspberry_Pi_PICO-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeldit&theme=blue-green)
