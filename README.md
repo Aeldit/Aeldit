@@ -17,7 +17,10 @@ Environnments I develop on :
 ![raspberrypipico](https://img.shields.io/badge/-Raspberry_Pi_PICO-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![gradle](https://img.shields.io/badge/-Gradle-00a5e2?style=for-the-badge&logo=Gradle&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-My projects on Modrinth :
+My games (I didn't invent the games, I just implemented them) :
+
+
+My Minecraft projects on Modrinth :
 
 [![cyan_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/bef8e5f6a837ee8c3479a2550e92c0ac028200f3/images/cyan-cozy-minimal.svg)](https://modrinth.com/mod/cyan)
 [![cyansethome_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/fdcc5b2b359f2bcc51654d9a973674c4d8557fd4/images/cyansethome-cozy-minimal.svg)](https://modrinth.com/mod/cyansethome)
