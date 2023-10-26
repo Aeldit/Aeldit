@@ -19,7 +19,7 @@ Environnments I develop on (or simply use as an OS) :
 
 My games (I didn't invent the games, I just implemented them) :
 
-[![xobrainer](https://raw.githubusercontent.com/Aeldit/Aeldit/78d693bb3b5fa2142c31860ef402e37e4cc8621f/images/xobrainer_cozy.svg)](https://github.com/Aeldit/XO-Brainer)
+[![xobrainer](https://raw.githubusercontent.com/Aeldit/Aeldit/890075888bc5e45d31a9e026455c02b783ef06de/images/xobrainer_python_cozy.svg)](https://github.com/Aeldit/XO-Brainer)
 
 My Minecraft projects on Modrinth :
 
