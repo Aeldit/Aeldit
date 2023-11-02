@@ -18,6 +18,7 @@ Environnments I develop on (or simply use as an OS) :
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 My games (I didn't invent the games, I just implemented them) :
+(the repositories for both XO-Brainer games are not public for now as I'm waiting for the authorisation of the people who invented the game) 
 
 [![xobrainer](https://raw.githubusercontent.com/Aeldit/Aeldit/890075888bc5e45d31a9e026455c02b783ef06de/images/xobrainer_python_cozy.svg)](https://github.com/Aeldit/XO-Brainer)
 [![xobrainer_c](https://raw.githubusercontent.com/Aeldit/Aeldit/b5b22a53d34704b48a354659695dd0042f98180f/images/xobrainer_c_cozy.svg)](https://github.com/Aeldit/XO-Brainer-C)
