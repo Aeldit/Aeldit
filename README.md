@@ -10,7 +10,7 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 On the applications side, I often use :
 
 [![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org/) [![pycharm](https://img.shields.io/badge/-PyCharm-95ff00?&style=for-the-badge&logo=PyCharm&logoColor=black)](https://www.jetbrains.com/pycharm/) [![intelijidea](https://img.shields.io/badge/-IntelliJ_IDEA-4366ff?style=for-the-badge&logo=intellij-idea)](https://www.jetbrains.com/idea/) [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/) [![visualstudio](https://img.shields.io/badge/Visual_Studio-7252AA?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![nvim](https://img.shields.io/badge/NeoVim-043608?style=for-the-badge&logo=neovim&textColor=07620F)]([https://visualstudio.microsoft.com/](https://neovim.io/))
+[![nvim](https://img.shields.io/badge/NeoVim-043608?style=for-the-badge&logo=neovim&textColor=07620F)](https://neovim.io/)
 
 
 Environnments I develop on (or simply use as an OS) :
