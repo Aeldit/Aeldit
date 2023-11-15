@@ -19,6 +19,10 @@ Environnments I develop on (or simply use as an OS) :
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![kali](https://img.shields.io/badge/Kali_Linux-163261?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 
+Other miscellaneous things I use :
+
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 My games (I didn't invent the games, I just implemented them) :
 (the repositories for both XO-Brainer games are not public for now as I'm waiting for the authorisation of the people who invented the game)
 
