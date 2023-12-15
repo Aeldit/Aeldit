@@ -13,13 +13,13 @@ On the applications side, I often use :
 
 Environnments I develop on (or simply use as an OS) :
 
-![raspberrypipico](https://img.shields.io/badge/-Raspberry_Pi_PICO-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![gradle](https://img.shields.io/badge/-Gradle-00a5e2?style=for-the-badge&logo=Gradle&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[![kali](https://img.shields.io/badge/Kali_Linux-163261?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![raspberrypipico](https://raw.githubusercontent.com/Aeldit/Aeldit/9c6bb315bdd8c07dfe0e5ccfab8bdf38ea5fd972/github_profile/pico.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/) [![gradle](https://raw.githubusercontent.com/Aeldit/Aeldit/0f04cae82dfd7014e34131e19911b8e95daa045a/github_profile/gradle.svg)](https://gradle.org/)
+[![windows](https://raw.githubusercontent.com/Aeldit/Aeldit/7018e93e8877c33e7077e73f58a3d19fb3f1b40c/github_profile/windows.svg)](https://www.microsoft.com/en-us/windows) [![nixos](https://raw.githubusercontent.com/Aeldit/Aeldit/71f5a2cf49447cd6e66683a931a24813a9c38537/github_profile/nixos.svg)](https://nixos.org/)
+[![kali](https://raw.githubusercontent.com/Aeldit/Aeldit/3aa3b32bb188ba577bcf999d6e160539ed820666/github_profile/kali.svg)](https://www.kali.org/)
 
 Other miscellaneous things I use :
 
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![git](https://raw.githubusercontent.com/Aeldit/Aeldit/57decc7f18f218d47f55a8cc90d4c85da35fc518/github_profile/git.svg)](https://git-scm.com/)
 
 My games (I didn't invent the games, I just implemented them) :
 (the repositories for both XO-Brainer games are not public for now as I'm waiting for the authorisation of the people who invented the game)
