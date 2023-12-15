@@ -41,3 +41,5 @@ My Minecraft projects on Modrinth :
 [![floating_texts_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/c4163b0470c0d710ba2cd3314cd241b5669ef175/images/floating-texts-cozy-minimal.svg)](https://modrinth.com/datapack/floating-texts)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeldit&theme=blue-green)
+
+> The badges have been made by myself, using the template made by [integrav](https://github.com/intergrav/devins-badges)
