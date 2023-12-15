@@ -42,4 +42,4 @@ My Minecraft projects on Modrinth :
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeldit&theme=blue-green)
 
-> The badges have been made by myself, using the template made by [integrav](https://github.com/intergrav/devins-badges)
+> The badges have been made by myself, using the template made by [integrav](https://github.com/intergrav/devins-badges). The logos come from [Simple icons](https://simpleicons.org/)
