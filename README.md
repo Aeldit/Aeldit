@@ -19,7 +19,7 @@ Environnments I develop on (or simply use as an OS) :
 
 Other miscellaneous things I use :
 
-[![git](https://raw.githubusercontent.com/Aeldit/Aeldit/57decc7f18f218d47f55a8cc90d4c85da35fc518/github_profile/git.svg)](https://git-scm.com/)
+[![git](https://raw.githubusercontent.com/Aeldit/Aeldit/ef60c9bc8098e2b0a18d8169e11d0a013f886bc3/github_profile/git.svg)](https://git-scm.com/)
 
 My games (I didn't invent the games, I just implemented them) :
 (the repositories for both XO-Brainer games are not public for now as I'm waiting for the authorisation of the people who invented the game)
