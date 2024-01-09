@@ -9,18 +9,25 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 ### On the applications side, I often use :
 
-[![gimp](https://raw.githubusercontent.com/Aeldit/Aeldit/178ad55af28fc695048de02a760e532fa69cc7c2/github_profile/gimp.svg)](https://www.gimp.org/) [![pycharm](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/) [![intllijidea](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/) [![vscode](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/vscode.svg)](https://code.visualstudio.com/) [![visualstudio](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/) [![nvim](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/nvim.svg)](https://neovim.io/)
+[![pycharm](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/)
+[![intllijidea](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/)
+[![vscode](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/vscode.svg)](https://code.visualstudio.com/)
+[![visualstudio](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/)
+[![nvim](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/nvim.svg)](https://neovim.io/)
 
 ### Environnments I develop on (or simply use as an OS) :
 
-[![pico](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/pico.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/) [![gradle](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/gradle.svg)](https://gradle.org/)
-[![windows](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/windows.svg)](https://www.microsoft.com/en-us/windows) [![nixos](https://raw.githubusercontent.com/Aeldit/Aeldit/71f5a2cf49447cd6e66683a931a24813a9c38537/github_profile/nixos.svg)](https://nixos.org/)
+[![pico](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/pico.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+[![gradle](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/gradle.svg)](https://gradle.org/)
+[![windows](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/windows.svg)](https://www.microsoft.com/en-us/windows)
+[![nixos](https://raw.githubusercontent.com/Aeldit/Aeldit/71f5a2cf49447cd6e66683a931a24813a9c38537/github_profile/nixos.svg)](https://nixos.org/)
 [![kali](https://raw.githubusercontent.com/Aeldit/Aeldit/3aa3b32bb188ba577bcf999d6e160539ed820666/github_profile/kali.svg)](https://www.kali.org/)
 
 ### Other miscellaneous things I use :
 
 [![git](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/git.svg)](https://git-scm.com/)
 [![vb](https://raw.githubusercontent.com/Aeldit/Aeldit/3d46ef45190f5eee866eefc5cf3e8fb83e3766b0/github_profile/vb.svg)](https://www.virtualbox.org/)
+[![gimp](https://raw.githubusercontent.com/Aeldit/Aeldit/178ad55af28fc695048de02a760e532fa69cc7c2/github_profile/gimp.svg)](https://www.gimp.org/)
 
 ### Games I implemented :
 (I didn't invent the games, I just implemented them)
