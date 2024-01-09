@@ -1,7 +1,4 @@
-### Hi there, I'm Aeldit
-
-> [!IMPORTANT]\
-> Testing
+## Hi there, I'm Aeldit
 
 I like programming all types of fun projects like Minecraft Mods / Resource Packs / Datapacks, Python and C games and C/C++ for Raspberry Pi PICO
 
@@ -10,27 +7,28 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 | Languages I have been teached (or I am learning this year) | ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![shell](https://img.shields.io/badge/Shell-668C1B?style=for-the-badge&logo=shell&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
 
 
-On the applications side, I often use :
+### On the applications side, I often use :
 
-[![gimp1](https://raw.githubusercontent.com/Aeldit/Aeldit/8864505694d9ea0693296d7917ea7f7e9ded981b/github_profile/gimp.svg)](https://www.gimp.org/) [![pycharm](https://raw.githubusercontent.com/Aeldit/Aeldit/61983dfec3624e445d70ac25e0a10f145b1490aa/github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/) [![intllijidea](https://raw.githubusercontent.com/Aeldit/Aeldit/3ec59372a07da5cc17e7120f88f6bfb9803a85c0/github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/) [![vscode](https://raw.githubusercontent.com/Aeldit/Aeldit/b22cd08b75e6e156913401a3d587c6d5f3197afa/github_profile/vscode.svg)](https://code.visualstudio.com/) [![visualstudio](https://raw.githubusercontent.com/Aeldit/Aeldit/417d5421af0986c77503cfc0005fb7adcdd8916f/github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/) [![nvim](https://raw.githubusercontent.com/Aeldit/Aeldit/a45d84f860931c25ad1cfe5ba87b11eeecdc84ac/github_profile/nvim.svg)](https://neovim.io/)
+[![gimp](https://raw.githubusercontent.com/Aeldit/Aeldit/178ad55af28fc695048de02a760e532fa69cc7c2/github_profile/gimp.svg)](https://www.gimp.org/) [![pycharm](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/) [![intllijidea](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/) [![vscode](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/vscode.svg)](https://code.visualstudio.com/) [![visualstudio](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/) [![nvim](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/nvim.svg)](https://neovim.io/)
 
-Environnments I develop on (or simply use as an OS) :
+### Environnments I develop on (or simply use as an OS) :
 
-[![raspberrypipico](https://raw.githubusercontent.com/Aeldit/Aeldit/9c6bb315bdd8c07dfe0e5ccfab8bdf38ea5fd972/github_profile/pico.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/) [![gradle](https://raw.githubusercontent.com/Aeldit/Aeldit/0f04cae82dfd7014e34131e19911b8e95daa045a/github_profile/gradle.svg)](https://gradle.org/)
-[![windows](https://raw.githubusercontent.com/Aeldit/Aeldit/7018e93e8877c33e7077e73f58a3d19fb3f1b40c/github_profile/windows.svg)](https://www.microsoft.com/en-us/windows) [![nixos](https://raw.githubusercontent.com/Aeldit/Aeldit/71f5a2cf49447cd6e66683a931a24813a9c38537/github_profile/nixos.svg)](https://nixos.org/)
+[![pico](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/pico.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/) [![gradle](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/gradle.svg)](https://gradle.org/)
+[![windows](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/windows.svg)](https://www.microsoft.com/en-us/windows) [![nixos](https://raw.githubusercontent.com/Aeldit/Aeldit/71f5a2cf49447cd6e66683a931a24813a9c38537/github_profile/nixos.svg)](https://nixos.org/)
 [![kali](https://raw.githubusercontent.com/Aeldit/Aeldit/3aa3b32bb188ba577bcf999d6e160539ed820666/github_profile/kali.svg)](https://www.kali.org/)
 
-Other miscellaneous things I use :
+### Other miscellaneous things I use :
 
-[![git](https://raw.githubusercontent.com/Aeldit/Aeldit/ef60c9bc8098e2b0a18d8169e11d0a013f886bc3/github_profile/git.svg)](https://git-scm.com/)
+[![git](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/git.svg)](https://git-scm.com/)
 
-My games (I didn't invent the games, I just implemented them) :
-(the repositories for both XO-Brainer games are not public for now as I'm waiting for the authorisation of the people who invented the game)
+### Games I implemented :
+(I didn't invent the games, I just implemented them)
+> (the repositories for both XO-Brainer games are not public for now as I'm waiting for the authorisation of the people who invented the game)
 
 [![xobrainer](https://raw.githubusercontent.com/Aeldit/Aeldit/890075888bc5e45d31a9e026455c02b783ef06de/images/xobrainer_python_cozy.svg)](https://github.com/Aeldit/XO-Brainer)
 [![xobrainer_c](https://raw.githubusercontent.com/Aeldit/Aeldit/b5b22a53d34704b48a354659695dd0042f98180f/images/xobrainer_c_cozy.svg)](https://github.com/Aeldit/XO-Brainer-C)
 
-My Minecraft projects on Modrinth :
+### My Minecraft projects on Modrinth :
 
 [![cyan_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/bef8e5f6a837ee8c3479a2550e92c0ac028200f3/images/cyan-cozy-minimal.svg)](https://modrinth.com/mod/cyan)
 [![cyansethome_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/fdcc5b2b359f2bcc51654d9a973674c4d8557fd4/images/cyansethome-cozy-minimal.svg)](https://modrinth.com/mod/cyansethome)
@@ -43,7 +41,8 @@ My Minecraft projects on Modrinth :
 [![light_gui_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/2f4a47b3752b28cbcd13c6d76c66a803d7fe1df5/images/light-gui-cozy-minimal.svg)](https://modrinth.com/resourcepack/light-smooth-gui)
 [![floating_texts_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/c4163b0470c0d710ba2cd3314cd241b5669ef175/images/floating-texts-cozy-minimal.svg)](https://modrinth.com/datapack/floating-texts)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeldit&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeldit&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeldit&layout=compact&theme=radical)
 
+> [!NOTE]\
 > The badges have been made by myself, using the template made by [integrav](https://github.com/intergrav/devins-badges). The logos come from [Simple icons](https://simpleicons.org/)
