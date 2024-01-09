@@ -52,5 +52,9 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeldit&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeldit&layout=compact&theme=radical)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=aeldit&theme=radical)
+
 > [!NOTE]\
-> The badges have been made by myself, using the template made by [integrav](https://github.com/intergrav/devins-badges). The logos come from [Simple icons](https://simpleicons.org/)
+> The badges have been made by myself, using the template made by [integrav](https://github.com/intergrav/devins-badges). The logos come from [Simple icons](https://simpleicons.org/) (except the ones for my Minecraft projects, I made them myself)
+>
+> The last 3 "blocks" are using vercel.app
