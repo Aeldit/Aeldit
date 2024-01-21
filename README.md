@@ -27,7 +27,7 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 [![git](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/git.svg)](https://git-scm.com/)
 [![vb](https://raw.githubusercontent.com/Aeldit/Aeldit/3d46ef45190f5eee866eefc5cf3e8fb83e3766b0/github_profile/vb.svg)](https://www.virtualbox.org/)
-[![gimp](https://raw.githubusercontent.com/Aeldit/Aeldit/178ad55af28fc695048de02a760e532fa69cc7c2/github_profile/gimp.svg)](https://www.gimp.org/)
+[![gimp](https://github.com/Aeldit/Aeldit/github_profile/gimp.svg)](https://www.gimp.org/)
 
 ### Games I implemented :
 (I didn't invent the games, I just implemented them)
