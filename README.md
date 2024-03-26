@@ -22,6 +22,7 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 [![windows](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/windows.svg)](https://www.microsoft.com/en-us/windows)
 [![nixos](https://raw.githubusercontent.com/Aeldit/Aeldit/71f5a2cf49447cd6e66683a931a24813a9c38537/github_profile/nixos.svg)](https://nixos.org/)
 [![kali](https://raw.githubusercontent.com/Aeldit/Aeldit/3aa3b32bb188ba577bcf999d6e160539ed820666/github_profile/kali.svg)](https://www.kali.org/)
+[![ubuntu](https://raw.githubusercontent.com/Aeldit/Aeldit/7b7f8815ed9de8dfff806d358e0dd7cd9b7130ab/github_profile/ubuntu.svg)](https://ubuntu.com/)
 
 ### Other miscellaneous things I use :
 
