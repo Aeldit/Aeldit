@@ -11,9 +11,9 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 [![pycharm](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/)
 [![intllijidea](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/)
+[![nvim](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/nvim.svg)](https://neovim.io/)
 [![vscode](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/vscode.svg)](https://code.visualstudio.com/)
 [![visualstudio](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/)
-[![nvim](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/nvim.svg)](https://neovim.io/)
 
 ### Environnments I develop on (or simply use as an OS) :
 
