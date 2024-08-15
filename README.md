@@ -23,11 +23,11 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 [![kali](https://raw.githubusercontent.com/Aeldit/Aeldit/3aa3b32bb188ba577bcf999d6e160539ed820666/github_profile/kali.svg)](https://www.kali.org/)
 [![ubuntu](https://raw.githubusercontent.com/Aeldit/Aeldit/7b7f8815ed9de8dfff806d358e0dd7cd9b7130ab/github_profile/ubuntu.svg)](https://ubuntu.com/)
 
-### Other miscellaneous things I use :
+### Other miscellaneous things I use (or have used) :
 
 [![git](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/git.svg)](https://git-scm.com/)
-[![vb](https://raw.githubusercontent.com/Aeldit/Aeldit/3d46ef45190f5eee866eefc5cf3e8fb83e3766b0/github_profile/vb.svg)](https://www.virtualbox.org/)
 [![gimp](https://raw.githubusercontent.com/Aeldit/Aeldit/7226e2948f01fe169efe74a9f5b4fcc07e1f38b7/github_profile/gimp.svg)](https://www.gimp.org/)
+[![vb](https://raw.githubusercontent.com/Aeldit/Aeldit/3d46ef45190f5eee866eefc5cf3e8fb83e3766b0/github_profile/vb.svg)](https://www.virtualbox.org/) 
 
 ### Games I implemented :
 (I didn't invent the games, I just implemented them)
