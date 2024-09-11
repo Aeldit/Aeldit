@@ -27,14 +27,21 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 [![git](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/git.svg)](https://git-scm.com/)
 [![gimp](https://raw.githubusercontent.com/Aeldit/Aeldit/7226e2948f01fe169efe74a9f5b4fcc07e1f38b7/github_profile/gimp.svg)](https://www.gimp.org/)
-[![vb](https://raw.githubusercontent.com/Aeldit/Aeldit/3d46ef45190f5eee866eefc5cf3e8fb83e3766b0/github_profile/vb.svg)](https://www.virtualbox.org/) 
+[![vb](https://raw.githubusercontent.com/Aeldit/Aeldit/3d46ef45190f5eee866eefc5cf3e8fb83e3766b0/github_profile/vb.svg)](https://www.virtualbox.org/)
 
-### Games I implemented :
+### My projects :
+
+#### XO-Brainer
+
 (I didn't invent the games, I just implemented them)
 > (the repositories for both XO-Brainer games are not public for now as I'm waiting for the authorisation of the people who invented the game)
 
 [![xobrainer](https://raw.githubusercontent.com/Aeldit/Aeldit/890075888bc5e45d31a9e026455c02b783ef06de/images/xobrainer_python_cozy.svg)](https://github.com/Aeldit/XO-Brainer)
 [![xobrainer_c](https://raw.githubusercontent.com/Aeldit/Aeldit/b5b22a53d34704b48a354659695dd0042f98180f/images/xobrainer_c_cozy.svg)](https://github.com/Aeldit/XO-Brainer-C)
+
+#### JSON Parser
+
+![json-parser](https://raw.githubusercontent.com/Aeldit/Aeldit/2c162a9bf611658c32247bd5bba500a30d1b6ad9/github_profile/json-parser.svg)
 
 ### My Minecraft projects on Modrinth :
 
