@@ -43,6 +43,8 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 ![json-parser](https://raw.githubusercontent.com/Aeldit/Aeldit/2c162a9bf611658c32247bd5bba500a30d1b6ad9/github_profile/json-parser.svg)
 
+![json-parser-cpp](https://raw.githubusercontent.com/Aeldit/Aeldit/e5cba7b19560c64d7677915d44ac5e4c80e8ce48/github_profile/jsonparser-cpp.svg)
+
 ### My Minecraft projects on Modrinth :
 
 [![cyan_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/bef8e5f6a837ee8c3479a2550e92c0ac028200f3/images/cyan-cozy-minimal.svg)](https://modrinth.com/mod/cyan)
