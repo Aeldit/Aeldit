@@ -42,7 +42,6 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 #### JSON Parser
 
 ![json-parser](https://raw.githubusercontent.com/Aeldit/Aeldit/2c162a9bf611658c32247bd5bba500a30d1b6ad9/github_profile/json-parser.svg)
-
 ![json-parser-cpp](https://raw.githubusercontent.com/Aeldit/Aeldit/e5cba7b19560c64d7677915d44ac5e4c80e8ce48/github_profile/jsonparser-cpp.svg)
 
 ### My Minecraft projects on Modrinth :
