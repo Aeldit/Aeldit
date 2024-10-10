@@ -15,17 +15,20 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 [![vscode](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/vscode.svg)](https://code.visualstudio.com/)
 [![visualstudio](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/)
 
-### Environnments I develop on (or simply use as an OS) :
+### Environnments I develop on :
 
 [![pico](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/pico.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 [![gradle](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/gradle.svg)](https://gradle.org/)
-[![kali](https://raw.githubusercontent.com/Aeldit/Aeldit/3aa3b32bb188ba577bcf999d6e160539ed820666/github_profile/kali.svg)](https://www.kali.org/)
-[![ubuntu](https://raw.githubusercontent.com/Aeldit/Aeldit/7b7f8815ed9de8dfff806d358e0dd7cd9b7130ab/github_profile/ubuntu.svg)](https://ubuntu.com/)
 
-### OS I use
+### OS I use :
 
 [![archlinux](https://raw.githubusercontent.com/Aeldit/Aeldit/2f78ef3a4daf0fb9d22d61c88bfa91e0c7a4d6d6/github_profile/archlinux.svg)](https://archlinux.org/)
 [![windows](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/windows.svg)](https://www.microsoft.com/en-us/windows)
+
+### OS I have used in the past :
+
+[![kali](https://raw.githubusercontent.com/Aeldit/Aeldit/3aa3b32bb188ba577bcf999d6e160539ed820666/github_profile/kali.svg)](https://www.kali.org/)
+[![ubuntu](https://raw.githubusercontent.com/Aeldit/Aeldit/7b7f8815ed9de8dfff806d358e0dd7cd9b7130ab/github_profile/ubuntu.svg)](https://ubuntu.com/)
 
 ### Other miscellaneous things I use (or have used) :
 
