@@ -9,9 +9,9 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 ### On the applications side, I use (or have used) :
 
-[![pycharm](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/)
-[![intllijidea](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/)
 [![nvim](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/nvim.svg)](https://neovim.io/)
+[![intllijidea](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/)
+[![pycharm](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/)
 [![vscode](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/vscode.svg)](https://code.visualstudio.com/)
 [![visualstudio](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/)
 
