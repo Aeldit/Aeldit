@@ -1,6 +1,6 @@
 ## Hi there, I'm Aeldit
 
-I like programming all types of fun projects like Minecraft Mods / Resource Packs / Datapacks, Python and C games and C/C++ for Raspberry Pi PICO
+I like programming all types of fun projects like Minecraft Mods / Resource Packs / Datapacks, Python and C games and C/C++ for Raspberry Pi PICO. Recently, I also started doing a lot of rust to learn it
 
 | Languages I learned by myself | Languages I have been teached |
 |:--:|:--:|
