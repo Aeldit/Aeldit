@@ -4,7 +4,7 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 | Languages I learned by myself | Languages I have been teached |
 |:--:|:--:|
-| ![java](https://raw.githubusercontent.com/Aeldit/Aeldit/e03393c2302ac015e81d800d873beb68504397a2/images/lang_Java.svg) ![html](https://raw.githubusercontent.com/Aeldit/Aeldit/e03393c2302ac015e81d800d873beb68504397a2/images/lang_html.svg) ![css](https://raw.githubusercontent.com/Aeldit/Aeldit/e03393c2302ac015e81d800d873beb68504397a2/images/lang_css.svg) ![js](https://raw.githubusercontent.com/Aeldit/Aeldit/e03393c2302ac015e81d800d873beb68504397a2/images/lang_js.svg) ![c](https://raw.githubusercontent.com/Aeldit/Aeldit/e03393c2302ac015e81d800d873beb68504397a2/images/lang_c.svg) ![cpp](https://raw.githubusercontent.com/Aeldit/Aeldit/e03393c2302ac015e81d800d873beb68504397a2/images/lang_cpp.svg) ![mcfunction](https://raw.githubusercontent.com/Aeldit/Aeldit/2373610392baf8c39022dd907ddc373b6f8e4328/images/lang_mc.svg) ![rust](github_profile/lang_rust.svg) | ![python](https://raw.githubusercontent.com/Aeldit/Aeldit/e03393c2302ac015e81d800d873beb68504397a2/images/lang_python.svg) ![shell](https://raw.githubusercontent.com/Aeldit/Aeldit/9c25e83cc9df9c57e884a84de2e663c4fb5d7b34/images/lang_Shell.svg) ![c](https://raw.githubusercontent.com/Aeldit/Aeldit/e03393c2302ac015e81d800d873beb68504397a2/images/lang_c.svg) ![asm](https://raw.githubusercontent.com/Aeldit/Aeldit/abdc54beb8e3d30372dff462ece34cb422f57764/github_profile/asm.svg) |
+| ![java](./github_profile/lang_Java.svg) ![html](./github_profile/lang_html.svg) ![css](./github_profile/lang_css.svg) ![js](./github_profile/lang_js.svg) ![c](./github_profile/lang_c.svg) ![cpp](./github_profile/lang_cpp.svg) ![mcfunction](./github_profile/lang_mc.svg) ![rust](./github_profile/lang_rust.svg) | ![python](./github_profile/lang_python.svg) ![shell](./github_profile/lang_shell.svg) ![c](./github_profile/lang_c.svg) ![asm](./github_profile/asm.svg) |
 
 
 ### On the applications side, I use (or have used) :
@@ -36,16 +36,16 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 ### My Minecraft projects on Modrinth :
 
-[![cyan_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/bef8e5f6a837ee8c3479a2550e92c0ac028200f3/images/cyan-cozy-minimal.svg)](https://modrinth.com/mod/cyan)
-[![cyansethome_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/fdcc5b2b359f2bcc51654d9a973674c4d8557fd4/images/cyansethome-cozy-minimal.svg)](https://modrinth.com/mod/cyansethome)
-[![ctms_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/d668bc7cd71d654d2331905a5ad425283dedab94/images/ctms-cozy-minimal.svg)](https://modrinth.com/mod/ctm-selector)
-[![cyanlib_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/bef8e5f6a837ee8c3479a2550e92c0ac028200f3/images/cyanlib-cozy-minimal.svg)](https://modrinth.com/mod/cyanlib)
-[![ctm_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/e2fb5f7ffe92301f627540cebca28d9aa90c641d/images/ctm-cozy-minimal.svg)](https://modrinth.com/resourcepack/ctm-of-fabric)
-[![ctm_faithful_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/54529d9dbb33d35184f386269c889cef818e7e79/images/ctm-faithful-cozy-minimal.svg)](https://modrinth.com/resourcepack/ctm-faithful)
-[![ctm_create_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/54529d9dbb33d35184f386269c889cef818e7e79/images/ctm-create-cozy-minimal.svg)](https://modrinth.com/resourcepack/ctm-create)
-[![dark_gui_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/2f4a47b3752b28cbcd13c6d76c66a803d7fe1df5/images/dark-gui-cozy-minimal.svg)](https://modrinth.com/resourcepack/dark-smooth-gui)
-[![light_gui_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/2f4a47b3752b28cbcd13c6d76c66a803d7fe1df5/images/light-gui-cozy-minimal.svg)](https://modrinth.com/resourcepack/light-smooth-gui)
-[![floating_texts_badge](https://raw.githubusercontent.com/Aeldit/Aeldit/c4163b0470c0d710ba2cd3314cd241b5669ef175/images/floating-texts-cozy-minimal.svg)](https://modrinth.com/datapack/floating-texts)
+[![cyan_badge](./github_profile/mc-cyan.svg)](https://modrinth.com/mod/cyan)
+[![cyansethome_badge](./github_profile/mc-cyansethome.svg)](https://modrinth.com/mod/cyansethome)
+[![ctms_badge](./github_profile/mc-ctms.svg)](https://modrinth.com/mod/ctm-selector)
+[![cyanlib_badge](./github_profile/mc-cyanlib.svg)](https://modrinth.com/mod/cyanlib)
+[![ctm_badge](./github_profile/mc-ctm.svg)](https://modrinth.com/resourcepack/ctm-of-fabric)
+[![ctm_faithful_badge](./github_profile/mc-ctmfaithful.svg)](https://modrinth.com/resourcepack/ctm-faithful)
+[![ctm_create_badge](./github_profile/mc-ctmcreate.svg)](https://modrinth.com/resourcepack/ctm-create)
+[![dark_gui_badge](./github_profile/mc-darkgui.svg)](https://modrinth.com/resourcepack/dark-smooth-gui)
+[![light_gui_badge](./github_profile/mc-lightgui.svg)](https://modrinth.com/resourcepack/light-smooth-gui)
+[![floating_texts_badge](./github_profile/mc-ft.svg)](https://modrinth.com/datapack/floating-texts)
 
 ### Stats
 
