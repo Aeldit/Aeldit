@@ -28,7 +28,6 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 [![git](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/git.svg)](https://git-scm.com/)
 [![gimp](https://raw.githubusercontent.com/Aeldit/Aeldit/7226e2948f01fe169efe74a9f5b4fcc07e1f38b7/github_profile/gimp.svg)](https://www.gimp.org/)
-[![vb](https://raw.githubusercontent.com/Aeldit/Aeldit/3d46ef45190f5eee866eefc5cf3e8fb83e3766b0/github_profile/vb.svg)](https://www.virtualbox.org/)
 
 ### My projects :
 
@@ -55,6 +54,19 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 ![trophy](https://github-profile-trophy.vercel.app/?username=aeldit&theme=radical)
 
 > [!NOTE]\
-> The badges have been made by myself, using the template made by [integrav](https://github.com/intergrav/devins-badges). The logos come from [Simple icons](https://simpleicons.org/) (except the ones for my Minecraft projects, I made them myself)
+> The badges have been made by myself, using the template made by [integrav](https://github.com/intergrav/devins-badges).
+>
+> The logos either come from [Simple icons](https://simpleicons.org/) or
+> from [Lucide](https://lucide.dev/icons/) (except the ones for my Minecraft projects, I made them myself; not the dark and smooth gui ones though)
+>
+> For the `simpleicons` logos, they are all under the `CC0 LICENSE` except:
+> - JavaScript: [MIT](https://spdx.org/licenses/MIT)
+> - Rust: [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0)
+> - Neovim and Git: [CC-BY-SA-3.0](https://spdx.org/licenses/CC-BY-SA-3.0)
+> - IntelijIdea and PyCharm: [jetbrains](https://www.jetbrains.com/)
+> - Raspberry PI: [raspberrypi](http://www.raspberrypi.com/)
+> - Git: [CC-BY-3.0](https://spdx.org/licenses/CC-BY-3.0)
+>
+> For the `LUCIDE` logos, see https://lucide.dev/license.
 >
 > The last 3 "blocks" are using vercel.app
