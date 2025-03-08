@@ -9,29 +9,29 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 ### On the applications side, I use (or have used) :
 
-[![nvim](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/nvim.svg)](https://neovim.io/)
-[![intllijidea](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/)
-[![pycharm](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/)
-[![vscode](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/vscode.svg)](https://code.visualstudio.com/)
-[![visualstudio](https://raw.githubusercontent.com/Aeldit/Aeldit/51005e1164de0284c75fb830102abad92717765a/github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/)
+[![nvim](./github_profile/nvim.svg)](https://neovim.io/)
+[![intllijidea](./github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/)
+[![pycharm](./github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/)
+[![vscode](./github_profile/vscode.svg)](https://code.visualstudio.com/)
+[![visualstudio](./github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/)
 
 ### Environnments I develop on :
 
-[![pico](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/pico.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
-[![gradle](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/gradle.svg)](https://gradle.org/)
+[![pico](./github_profile/pico.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+[![gradle](./github_profile/gradle.svg)](https://gradle.org/)
 
 | OS I use | OS I have used in the past |
 |:--------:|:--------------------------:|
-|[![archlinux](https://raw.githubusercontent.com/Aeldit/Aeldit/2f78ef3a4daf0fb9d22d61c88bfa91e0c7a4d6d6/github_profile/archlinux.svg)](https://archlinux.org/) [![windows](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/windows.svg)](https://www.microsoft.com/en-us/windows) | [![kali](https://raw.githubusercontent.com/Aeldit/Aeldit/3aa3b32bb188ba577bcf999d6e160539ed820666/github_profile/kali.svg)](https://www.kali.org/) [![ubuntu](https://raw.githubusercontent.com/Aeldit/Aeldit/7b7f8815ed9de8dfff806d358e0dd7cd9b7130ab/github_profile/ubuntu.svg)](https://ubuntu.com/) |
+|[![archlinux](./github_profile/archlinux.svg)](https://archlinux.org/) [![windows](./github_profile/windows.svg)](https://www.microsoft.com/en-us/windows) | [![kali](./github_profile/kali.svg)](https://www.kali.org/) [![ubuntu](./github_profile/ubuntu.svg)](https://ubuntu.com/) |
 
 ### Other miscellaneous software I use :
 
-[![git](https://raw.githubusercontent.com/Aeldit/Aeldit/c498c1a6c87ea34cc839b23d0bac7d96f12f33bf/github_profile/git.svg)](https://git-scm.com/)
-[![gimp](https://raw.githubusercontent.com/Aeldit/Aeldit/7226e2948f01fe169efe74a9f5b4fcc07e1f38b7/github_profile/gimp.svg)](https://www.gimp.org/)
+[![git](./github_profile/git.svg)](https://git-scm.com/)
+[![gimp](./github_profile/gimp.svg)](https://www.gimp.org/)
 
 ### My projects :
 
-[![json-parser](https://raw.githubusercontent.com/Aeldit/Aeldit/2c162a9bf611658c32247bd5bba500a30d1b6ad9/github_profile/json-parser.svg)](https://github.com/Aeldit/JsonParser)
+[![json-parser](./github_profile/json-parser.svg)](https://github.com/Aeldit/JsonParser)
 [![exifeditui](./github_profile/exifeditui.svg)](https://github.com/Aeldit/ExifEdiTUI)
 
 ### My Minecraft projects on Modrinth :
