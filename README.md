@@ -32,6 +32,7 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 ### My projects :
 
 [![json-parser](https://raw.githubusercontent.com/Aeldit/Aeldit/2c162a9bf611658c32247bd5bba500a30d1b6ad9/github_profile/json-parser.svg)](https://github.com/Aeldit/JsonParser)
+[![exifeditui](./github_profile/exifeditui.svg)](https://github.com/Aeldit/ExifEdiTUI)
 
 ### My Minecraft projects on Modrinth :
 
