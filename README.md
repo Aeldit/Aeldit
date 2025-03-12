@@ -31,21 +31,26 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 ### My projects :
 
-[![json-parser](./github_profile/json-parser.svg)](https://github.com/Aeldit/JsonParser)
+[![json-parser](./github_profile/proj_json-parser.svg)](https://github.com/Aeldit/JsonParser)
+[![lowbatterynotifyc](./github_profile/proj_lowbattnotifyc.svg)](https://github.com/Aeldit/LowBatteryNotifyC)
+[![timedhyprsunset](./github_profile/proj_timedhyprsunset.svg)](https://github.com/Aeldit/TimedHyprsunset)
+
 [![exifeditui](./github_profile/exifeditui.svg)](https://github.com/Aeldit/ExifEdiTUI)
+[![lowbatterynotify](./github_profile/proj_lowbattnotify.svg)](https://github.com/Aeldit/LowBatteryNotify)
+
 
 ### My Minecraft projects on Modrinth :
 
-[![cyan_badge](./github_profile/mc-cyan.svg)](https://modrinth.com/mod/cyan)
-[![cyansethome_badge](./github_profile/mc-cyansethome.svg)](https://modrinth.com/mod/cyansethome)
-[![ctms_badge](./github_profile/mc-ctms.svg)](https://modrinth.com/mod/ctm-selector)
-[![cyanlib_badge](./github_profile/mc-cyanlib.svg)](https://modrinth.com/mod/cyanlib)
-[![ctm_badge](./github_profile/mc-ctm.svg)](https://modrinth.com/resourcepack/ctm-of-fabric)
-[![ctm_faithful_badge](./github_profile/mc-ctmfaithful.svg)](https://modrinth.com/resourcepack/ctm-faithful)
-[![ctm_create_badge](./github_profile/mc-ctmcreate.svg)](https://modrinth.com/resourcepack/ctm-create)
-[![dark_gui_badge](./github_profile/mc-darkgui.svg)](https://modrinth.com/resourcepack/dark-smooth-gui)
-[![light_gui_badge](./github_profile/mc-lightgui.svg)](https://modrinth.com/resourcepack/light-smooth-gui)
-[![floating_texts_badge](./github_profile/mc-ft.svg)](https://modrinth.com/datapack/floating-texts)
+[![cyan_badge](./github_profile/mc_cyan.svg)](https://modrinth.com/mod/cyan)
+[![cyansethome_badge](./github_profile/mc_cyansethome.svg)](https://modrinth.com/mod/cyansethome)
+[![ctms_badge](./github_profile/mc_ctms.svg)](https://modrinth.com/mod/ctm-selector)
+[![cyanlib_badge](./github_profile/mc_cyanlib.svg)](https://modrinth.com/mod/cyanlib)
+[![ctm_badge](./github_profile/mc_ctm.svg)](https://modrinth.com/resourcepack/ctm-of-fabric)
+[![ctm_faithful_badge](./github_profile/mc_ctmfaithful.svg)](https://modrinth.com/resourcepack/ctm-faithful)
+[![ctm_create_badge](./github_profile/mc_ctmcreate.svg)](https://modrinth.com/resourcepack/ctm-create)
+[![dark_gui_badge](./github_profile/mc_darkgui.svg)](https://modrinth.com/resourcepack/dark-smooth-gui)
+[![light_gui_badge](./github_profile/mc_lightgui.svg)](https://modrinth.com/resourcepack/light-smooth-gui)
+[![floating_texts_badge](./github_profile/mc_ft.svg)](https://modrinth.com/datapack/floating-texts)
 
 ### Stats
 
