@@ -1,28 +1,24 @@
 ## Hi there, I'm Aeldit
 
-I like programming all types of fun projects like Minecraft Mods / Resource Packs / Datapacks, Python and C games and C/C++ for Raspberry Pi PICO. Recently, I also started doing a lot of rust to learn it
+I like programming all types of fun projects like Minecraft Mods / Resource Packs / Datapacks, various programs in C and Python, and C++ for Raspberry Pi PICO. Recently, I also started doing a lot of rust to learn it
 
 | Languages I learned by myself | Languages I have been teached |
 |:--:|:--:|
-| ![java](./github_profile/lang_Java.svg) ![html](./github_profile/lang_html.svg) ![css](./github_profile/lang_css.svg) ![js](./github_profile/lang_js.svg) ![c](./github_profile/lang_c.svg) ![cpp](./github_profile/lang_cpp.svg) ![mcfunction](./github_profile/lang_mc.svg) ![rust](./github_profile/lang_rust.svg) | ![python](./github_profile/lang_python.svg) ![shell](./github_profile/lang_shell.svg) ![c](./github_profile/lang_c.svg) ![asm](./github_profile/asm.svg) |
+| ![c](./github_profile/lang_c.svg) ![rust](./github_profile/lang_rust.svg) ![java](./github_profile/lang_Java.svg) ![cpp](./github_profile/lang_cpp.svg) ![html](./github_profile/lang_html.svg) ![css](./github_profile/lang_css.svg) ![mcfunction](./github_profile/lang_mc.svg) ![js](./github_profile/lang_js.svg) | ![python](./github_profile/lang_python.svg) ![shell](./github_profile/lang_shell.svg) ![asm](./github_profile/asm.svg) |
 
 
-### On the applications side, I use (or have used) :
+| IDEs I use | IDEs I used in the past |
+|:----------:|:-----------------------:|
+| [![nvim](./github_profile/nvim.svg)](https://neovim.io/) [![intllijidea](./github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/) | [![pycharm](./github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/) [![vscode](./github_profile/vscode.svg)](https://code.visualstudio.com/) [![visualstudio](./github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/) |
 
-[![nvim](./github_profile/nvim.svg)](https://neovim.io/)
-[![intllijidea](./github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/)
-[![pycharm](./github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/)
-[![vscode](./github_profile/vscode.svg)](https://code.visualstudio.com/)
-[![visualstudio](./github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/)
+| OS I use | OS I have used in the past |
+|:--------:|:--------------------------:|
+|[![archlinux](./github_profile/archlinux.svg)](https://archlinux.org/) [![windows](./github_profile/windows.svg)](https://www.microsoft.com/en-us/windows) | [![kali](./github_profile/kali.svg)](https://www.kali.org/) [![ubuntu](./github_profile/ubuntu.svg)](https://ubuntu.com/) |
 
 ### Environnments I develop on :
 
 [![pico](./github_profile/pico.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 [![gradle](./github_profile/gradle.svg)](https://gradle.org/)
-
-| OS I use | OS I have used in the past |
-|:--------:|:--------------------------:|
-|[![archlinux](./github_profile/archlinux.svg)](https://archlinux.org/) [![windows](./github_profile/windows.svg)](https://www.microsoft.com/en-us/windows) | [![kali](./github_profile/kali.svg)](https://www.kali.org/) [![ubuntu](./github_profile/ubuntu.svg)](https://ubuntu.com/) |
 
 ### Other miscellaneous software I use :
 
@@ -35,7 +31,7 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 [![lowbatterynotifyc](./github_profile/proj_lowbattnotifyc.svg)](https://github.com/Aeldit/LowBatteryNotifyC)
 [![timedhyprsunset](./github_profile/proj_timedhyprsunset.svg)](https://github.com/Aeldit/TimedHyprsunset)
 
-[![exifeditui](./github_profile/exifeditui.svg)](https://github.com/Aeldit/ExifEdiTUI)
+[![exifeditui](./github_profile/proj_exifeditui.svg)](https://github.com/Aeldit/ExifEdiTUI)
 [![lowbatterynotify](./github_profile/proj_lowbattnotify.svg)](https://github.com/Aeldit/LowBatteryNotify)
 
 
