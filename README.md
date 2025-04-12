@@ -7,8 +7,6 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 | ![java](./github_profile/lang_Java.svg) ![html](./github_profile/lang_html.svg) ![css](./github_profile/lang_css.svg) ![js](./github_profile/lang_js.svg) ![c](./github_profile/lang_c.svg) ![cpp](./github_profile/lang_cpp.svg) ![mcfunction](./github_profile/lang_mc.svg) ![rust](./github_profile/lang_rust.svg) | ![python](./github_profile/lang_python.svg) ![shell](./github_profile/lang_shell.svg) ![c](./github_profile/lang_c.svg) ![asm](./github_profile/asm.svg) |
 
 
-### On the applications side, I use (or have used) :
-
 | IDEs I use | IDEs I used in the past |
 |:----------:|:-----------------------:|
 | [![nvim](./github_profile/nvim.svg)](https://neovim.io/) [![intllijidea](./github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/) | [![pycharm](./github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/) [![vscode](./github_profile/vscode.svg)](https://code.visualstudio.com/) [![visualstudio](./github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/) |
