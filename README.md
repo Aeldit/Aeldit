@@ -9,20 +9,18 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 
 ### On the applications side, I use (or have used) :
 
-[![nvim](./github_profile/nvim.svg)](https://neovim.io/)
-[![intllijidea](./github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/)
-[![pycharm](./github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/)
-[![vscode](./github_profile/vscode.svg)](https://code.visualstudio.com/)
-[![visualstudio](./github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/)
+| IDEs I use | IDEs I used in the past |
+|:----------:|:-----------------------:|
+| [![nvim](./github_profile/nvim.svg)](https://neovim.io/) [![intllijidea](./github_profile/intellij_idea.svg)](https://www.jetbrains.com/idea/) | [![pycharm](./github_profile/pycharm.svg)](https://www.jetbrains.com/pycharm/) [![vscode](./github_profile/vscode.svg)](https://code.visualstudio.com/) [![visualstudio](./github_profile/visual_studio.svg)](https://visualstudio.microsoft.com/) |
+
+| OS I use | OS I have used in the past |
+|:--------:|:--------------------------:|
+|[![archlinux](./github_profile/archlinux.svg)](https://archlinux.org/) [![windows](./github_profile/windows.svg)](https://www.microsoft.com/en-us/windows) | [![kali](./github_profile/kali.svg)](https://www.kali.org/) [![ubuntu](./github_profile/ubuntu.svg)](https://ubuntu.com/) |
 
 ### Environnments I develop on :
 
 [![pico](./github_profile/pico.svg)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 [![gradle](./github_profile/gradle.svg)](https://gradle.org/)
-
-| OS I use | OS I have used in the past |
-|:--------:|:--------------------------:|
-|[![archlinux](./github_profile/archlinux.svg)](https://archlinux.org/) [![windows](./github_profile/windows.svg)](https://www.microsoft.com/en-us/windows) | [![kali](./github_profile/kali.svg)](https://www.kali.org/) [![ubuntu](./github_profile/ubuntu.svg)](https://ubuntu.com/) |
 
 ### Other miscellaneous software I use :
 
