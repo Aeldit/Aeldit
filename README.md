@@ -28,11 +28,11 @@ I like programming all types of fun projects like Minecraft Mods / Resource Pack
 ### My projects :
 
 [![json-parser](./github_profile/proj_json-parser.svg)](https://github.com/Aeldit/JsonParser)
-[![lowbatterynotifyc](./github_profile/proj_lowbattnotifyc.svg)](https://github.com/Aeldit/LowBatteryNotifyC)
-[![timedhyprsunset](./github_profile/proj_timedhyprsunset.svg)](https://github.com/Aeldit/TimedHyprsunset)
+[![lowbatterynotifyc](./github_profile/proj_lowbattnotifyc.svg)](https://git.sr.ht/~aeldit/LowBatteryNotifier)
+[![timedhyprsunset](./github_profile/proj_timedhyprsunset.svg)](https://git.sr.ht/~aeldit/TimedHyprsunset)
 
 [![exifeditui](./github_profile/proj_exifeditui.svg)](https://github.com/Aeldit/ExifEdiTUI)
-[![lowbatterynotify](./github_profile/proj_lowbattnotify.svg)](https://github.com/Aeldit/LowBatteryNotify)
+[![lowbatterynotifierrust](./github_profile/proj_lowbattnotify.svg)](https://git.sr.ht/~aeldit/LowBatteryNotifierRust)
 
 
 ### My Minecraft projects on Modrinth :
